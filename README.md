@@ -1,5 +1,18 @@
-# CS Stuff (the theory part)
-    
-A place to put all the theoretical stuff I learned, where I try to implement data structures and algorithms in c (and python if I can figure out how memory management works on that).      
-Roadmap taken from [here](https://roadmap.sh).  
-Note that I am using the CS Pathway.
+i have no clue what this was
+
+anyways,
+
+time to try and implement some stuff - the "basics" of coding
+
+
+- [ ] array
+- [ ] heap
+- [ ] graph
+- [ ] tree
+- [ ] stack
+- [ ] queue
+- [ ] linked list
+- [ ] hashed map/dict in python
+- [ ] string
+
+from here everything else can mostly be done in python as py has an easier syntax and this would just be a different language to represent the same idea
