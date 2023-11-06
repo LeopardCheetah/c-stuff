@@ -15,4 +15,12 @@ time to try and implement some stuff - the "basics" of coding
 - [ ] hashed map/dict in python
 - [ ] string
 
-from here everything else can mostly be done in python as py has an easier syntax and this would just be a different language to represent the same idea
+from here everything else can mostly be done in python as py has an easier syntax and this would just be a different language to represent the same idea  
+
+
+
+---
+
+
+
+files in c-testing may invoke UB and are mainly for my testing and pleasure
